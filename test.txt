@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 sdjasdsfjkhdsfkjshfsdkjfdjfsdw
 这是main分支
+这是mergedemo分支上的内容
+>>>>>>> mergedemo
